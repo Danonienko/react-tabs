@@ -1,0 +1,16 @@
+.nav-tabs {
+	border-bottom: 1px solid #dee2e6;
+	display: flex;
+	gap: 2px;
+}
+
+.nav-tabs .nav-item {
+	touch-action: none;
+	user-select: none;
+}
+
+.tab-content {
+	padding: 1rem;
+	border: 1px solid #dee2e6;
+	border-top: none;
+}
